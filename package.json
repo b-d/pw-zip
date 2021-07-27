@@ -38,6 +38,9 @@
     "deflate",
     "inflate"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@b-d"
+  },
   "devDependencies": {
     "browserify": "~13.0.0",
     "grunt": "~0.4.1",
